@@ -5,5 +5,5 @@ export const contenidoClaro = "white";
 export const textoFondoClaro = "gray";
 
 export const fondoOscuro = "#363537";
-export const contenudoOscuro = "5C5B5E";
+export const contenudoOscuro = "#5C5B5E";
 export const textoFondoOscuro = "#FAFAFA";
